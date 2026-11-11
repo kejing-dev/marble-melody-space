@@ -1,0 +1,19 @@
+# Local state and generated artifacts
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+*.log
+*.apk
+*.aab
+*.jks
+*.keystore
+signing.properties
+signing-local.json
+.env
+.env.*
+!*.example
+.DS_Store
+*.blend1
